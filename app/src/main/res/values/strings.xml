@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WidgetPrimer</string>
+
+    <string name="hello_widget">Hello widget!</string>
+    <string name="widget_text">Save a tree</string>
+    <string name="learn_how">Learn how</string>
+    <string name="send_to_widget">Send to widget</string>
+
+    <string name="configure_activity">Configure activity</string>
+    <string name="configure_hint">Set initial text</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_widget">Add widget</string>
+</resources>
